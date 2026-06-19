@@ -1,0 +1,3 @@
+[submodule "90 System/agent-skills/upstream/obsidian-skills"]
+	path = 90 System/agent-skills/upstream/obsidian-skills
+	url = https://github.com/kepano/obsidian-skills.git

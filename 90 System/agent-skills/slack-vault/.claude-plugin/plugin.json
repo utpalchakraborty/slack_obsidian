@@ -1,0 +1,16 @@
+{
+  "name": "slack-vault",
+  "version": "0.1.0",
+  "description": "Connect Slack Vault imported documents into this Obsidian vault graph with source-grounded links, map updates, and duplicate detection guidance.",
+  "author": {
+    "name": "Slack Vault"
+  },
+  "repository": "https://github.com/utpalrohan/slack_vault",
+  "keywords": [
+    "slack-vault",
+    "obsidian",
+    "knowledgebase",
+    "wikilinks",
+    "source-grounded"
+  ]
+}
